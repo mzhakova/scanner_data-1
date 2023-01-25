@@ -919,33 +919,5 @@
     {
         "name": "recommendation_mark",
         "type": "number"
-    },
-    {
-        "name": "market_cap_perf_1w",
-        "type": "number"
-    },
-    {
-        "name": "market_cap_perf_1m",
-        "type": "number"
-    },
-    {
-        "name": "market_cap_perf_3m",
-        "type": "number"
-    },
-    {
-        "name": "market_cap_perf_6m",
-        "type": "number"
-    },
-    {
-        "name": "market_cap_perf_ytd",
-        "type": "number"
-    },
-    {
-        "name": "market_cap_perf_1y",
-        "type": "number"
-    },
-    {
-        "name": "market_cap_perf_5y",
-        "type": "number"
     }
 ]
