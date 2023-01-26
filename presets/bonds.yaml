@@ -9,7 +9,7 @@ presets:
   - left: typespecs
     operation: has
     right: yield
-- name: bonds_major_10y_yield
+- name: bonds_all_10y_yield
   filter:
   - left: term-to-maturity
     operation: equal
